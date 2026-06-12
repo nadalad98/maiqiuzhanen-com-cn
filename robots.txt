@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nadalad98.github.io/maiqiuzhanen-com-cn/sitemap.xml
